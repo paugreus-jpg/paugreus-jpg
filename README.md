@@ -12,18 +12,17 @@ Building scalable, well-tested backend systems with Java & Spring Boot, followin
 - 💼 Currently working at **GFT Technologies** as a Backend Developer
 - 🏗️ Focused on **DDD**, **Clean Architecture** and **Microservices**
 - 🌱 Full-stack experience with **Angular**
-- 📫 Reach me at **pau.greus@gmail.com**
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,angular,postgres,mysql,docker,git,githubactions,gitlab,idea,postman,rabbitmq&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,angular,kotlin,androidstudio,postgres,mysql,docker,git,githubactions,gitlab,idea,eclipse,vscode,postman,rabbitmq&theme=dark)](https://skillicons.dev)
 
-- **Languages & Frameworks:** Java, Spring Boot, Hibernate/JPA, Angular
+- **Languages & Frameworks:** Java, Spring Boot, Hibernate/JPA, Angular, Kotlin (Android)
 - **Architecture & Design:** Domain-Driven Design (DDD), Clean Architecture, Microservices, REST APIs, Swagger/OpenAPI
 - **Testing:** JUnit, Mockito
 - **Databases:** PostgreSQL, MySQL, H2
 - **Messaging:** RabbitMQ, Amazon SQS, Amazon MQ
-- **DevOps & Tools:** Docker, GitHub Actions, GitLab CI, Git, IntelliJ IDEA, Postman
+- **DevOps & Tools:** Docker, GitHub Actions, GitLab CI, Git, IntelliJ IDEA, Eclipse, VS Code, Postman
 - **Methodologies:** Agile/Scrum, CI/CD
 
 **Architecture & Design**
@@ -54,13 +53,27 @@ Building scalable, well-tested backend systems with Java & Spring Boot, followin
 [![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.scrum.org/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat-square)](https://about.gitlab.com/topics/ci-cd/)
 
-## 📊 GitHub Stats
+## 💻 Personal projects
 
-[![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=paugreus-jpg&show_icons=true&theme=default&hide_border=true)](https://github.com/paugreus-jpg)
+<!-- Rellena cada bloque con tus proyectos. Copia el bloque para añadir más. -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paugreus-jpg&layout=compact&hide_border=true)](https://github.com/paugreus-jpg)
+**[PawPlace](https://github.com/paugreus-jpg/PawPlace)** — TFG
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=paugreus-jpg&hide_border=true)](https://github.com/paugreus-jpg)
+Android app to register, geolocate, and share dogs and dog-friendly places. Features an interactive Mapbox map, GPS walk tracking with a foreground service, an offline-first Room + Firestore sync layer, and a social layer (likes, comments, profiles) built on Firebase. Built with Clean Architecture + MVVM and a unidirectional data flow.
+
+`Kotlin` `Jetpack Compose` `Mapbox` `Firebase` `Room` `MVVM`
+
+## 🤝 Projects i've contributed to
+
+<!-- Rellena con proyectos de la empresa (los que puedas mostrar públicamente) o colaboraciones open source -->
+
+**[Nombre del Proyecto](https://github.com/org/repo)**
+Breve descripción de tu rol y aportación al proyecto.
+`Java` `Spring Boot` `Microservices`
+
+## 📈 GitHub Activity
+
+![Snake animation](https://raw.githubusercontent.com/paugreus-jpg/paugreus-jpg/output/github-contribution-grid-snake.svg)
 
 ---
 
