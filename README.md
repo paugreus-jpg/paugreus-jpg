@@ -76,7 +76,7 @@ Ticket sales platform for live events, built as a team training project. A monor
 
 ### [🚚 Supply Chain Simulator](https://github.com/PauLopNun/supply-chain-simulator-workshop) — Training project
 
-Distributed, event-driven microservices system simulating a supply chain (factories → warehouses → stores → trucks), built as a team training project at GFT following Domain-Driven Design (bounded contexts, context mapping, ubiquitous language). Services communicate over RabbitMQ topic exchanges with a strict domain/application/infrastructure separation. Owned the **Trucks domain** on the [transport-service](https://github.com/PauLopNun/transport-service).
+Distributed, event-driven microservices system simulating a supply chain (factories → warehouses → stores → trucks), built as a team training project during internship at GFT following Domain-Driven Design (bounded contexts, context mapping, ubiquitous language). Services communicate over RabbitMQ topic exchanges with a strict domain/application/infrastructure separation. Owned the **Trucks domain** on the [transport-service](https://github.com/PauLopNun/transport-service).
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![DDD](https://img.shields.io/badge/DDD-4B32C3?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
