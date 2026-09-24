@@ -14,6 +14,10 @@ Building scalable, well-tested backend systems with Java & Spring Boot, followin
 - 🌱 Full-stack experience with **Angular**
 - 📫 Reach me at **pau.greus@gmail.com**
 
+## 🎓 Certifications
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/8b992321-7ecb-4b89-bd2b-7f866149a46b/public_url)
+
 ## 🛠️ Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,angular,kotlin,androidstudio,postgres,mysql,docker,git,githubactions,gitlab,idea,eclipse,vscode,postman,rabbitmq&theme=dark)](https://skillicons.dev)
