@@ -16,7 +16,7 @@ Building scalable, well-tested backend systems with Java & Spring Boot, followin
 
 ## 🎓 Certifications
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/8b992321-7ecb-4b89-bd2b-7f866149a46b/public_url)
+[![AWS Certified Cloud Practitioner](files/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/8b992321-7ecb-4b89-bd2b-7f866149a46b/public_url)
 
 ## 🛠️ Tech stack
 
